@@ -5,7 +5,7 @@ A simple Book Management System built in C language.
 
 ## ✨ Features
 - Add new books
-- Show Book
+- Show All Book
 - Issue books to students
 - Return books
 - Delete Book
