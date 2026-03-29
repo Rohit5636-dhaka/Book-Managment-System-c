@@ -197,7 +197,7 @@ int main() {
     while (1) {
         printf("=== Book Management System ===\n");
         printf("1. Add Book\n");
-        printf("2. Show Book\n");
+        printf("2. Show All Book\n");
         printf("3. Delete Book\n");
         printf("4. Issue Book\n");
         printf("5. Return Book\n");
